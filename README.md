@@ -1,8 +1,8 @@
 # Windows-batch
 Bath tools for file processing, rename, extract, etc.
 
-1.
-premenuj_adresar_pridaj_mesiac_a_rok.bat
+1)
+**premenuj_adresar_pridaj_mesiac_a_rok.bat**
 
 Vstupný parameter je názov adresára, alebo plná cesta uzavretý v úvodzovkách.
 Príklad:
@@ -13,8 +13,8 @@ Zadaný adresár je premenovaný, ak je povolený zápis, do tvaru, ktorý obsah
 
 v15.0.563 (Feb 2025)
 
-2.
-premenuj_adresar_pridaj_resp_aktualizuj_mesiac_a_rok.bat
+2)
+**premenuj_adresar_pridaj_resp_aktualizuj_mesiac_a_rok.bat**
 
 Vstupný parameter je názov adresára, alebo plná cesta uzavretý v úvodzovkách.
 Príklad:
