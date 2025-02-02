@@ -30,3 +30,18 @@ alebo
 Zadaný adresár je premenovaný resp. dátum ja aktualizovaný, ak je povolený zápis, do tvaru, ktorý obsahuje anglický názov aktuálneho mesiaca skrátený na prvé 3 písmená a aktuálny rok:
 
 	v15.0.563 (Feb 2025)
+
+3)
+**check_URL_file_size.bat**
+
+Zisti veľkosť súboru na serveri, parameter je URL súboru:
+
+Príklad:
+
+	check_URL_file_size.bat "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2400520399/AcroRdrDCx642400520399_sk_SK.exe"
+
+ Výstup:
+
+	Velkost: 617,853,336
+ 
+Batch vyžaduje prítomnosť **curl**.
